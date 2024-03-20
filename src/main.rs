@@ -41,7 +41,7 @@ fn main() {
                 };
                 let fahreinheit = celcuis_to_fahrenheit(temperature_value);
                 println!(
-                    "{} celcius in fahrenheit is {}",
+                    "{} degrees celcius in fahrenheit is {}",
                     temperature_value, fahreinheit
                 );
                 return;
@@ -60,7 +60,7 @@ fn main() {
                 };
                 let fahreinheit = fahrenheit_to_celcius(temperature_value);
                 println!(
-                    "{} fahreinheit in celcius is {}",
+                    "{} degrees fahreinheit in celcius is {}",
                     temperature_value, fahreinheit
                 );
                 return;
