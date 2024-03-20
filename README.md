@@ -17,7 +17,8 @@ cd temperature-converter
 
 #build and run the project
 cargo run
-
 ````
+## Guide
+The program lets the user choice between celcius and fahrenheit conversion the prompts for a temperature value
 
 
